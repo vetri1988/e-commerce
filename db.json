@@ -1,0 +1,726 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 11 Ultrabook",
+      "brand": "Lenovo",
+      "sku": "TP-X1-C11",
+      "hsnCode": "84713010",
+      "gstPercentage": 18,
+      "category": "Laptops",
+      "price": 185000,
+      "offerPrice": 164999,
+      "discountPercentage": 11,
+      "stock": 11,
+      "imageUrl": "/uploads/img-Untitled_design__6_-1781706544300.png",
+      "galleryUrls": [
+        "/uploads/img-Untitled_design__4_-1781705235735.png",
+        "/uploads/img-Untitled_design__6_-1781705231869.png",
+        "/uploads/img-Untitled_design__8_-1781705339333.png"
+      ],
+      "description": "The ultimate professional laptop. Ultra-light carbon fiber chassis, legendary durability, and state-of-the-art Intel Core i7-1355U processor. Comes with Windows 11 Pro pre-installed.",
+      "specifications": {
+        "Processor": "Intel Core i7-1355U (13th Gen, up to 5.0 GHz)",
+        "Memory": "32GB LPDDR5-6000MHz",
+        "Storage": "1TB SSD PCIe NVMe Gen4",
+        "Display": "14-inch WUXGA IPS Anti-glare (400 nits, 100% sRGB)",
+        "Operating System": "Windows 11 Pro 64-bit",
+        "Weight": "1.12 kg",
+        "Ports": "2 x Thunderbolt 4, 2 x USB-A 3.2, 1 x HDMI 2.1"
+      },
+      "features": [
+        "Carbon-Fiber Reinforced Chassis for Military-Grade Durability (MIL-SPEC 810H)",
+        "Optimized Zoom/Teams Calls with 1080p FHD Cam & Quad Mics",
+        "Legendary Spill-Resistant Keyboard with signature TrackPoint",
+        "Enterprise Security Shield: Discrete TPM 2.0 & Fingerprint Reader"
+      ],
+      "warranty": "3 Years Onsite Premier Support Warranty",
+      "rating": 4.8,
+      "ratingCount": 42,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isDeal": true
+    },
+    {
+      "id": "prod-2",
+      "name": "HP LaserJet Pro MFP M428fdw Wireless Mono Printer",
+      "brand": "HP",
+      "sku": "HP-LJPro-M428",
+      "hsnCode": "84433210",
+      "gstPercentage": 18,
+      "category": "Printers",
+      "price": 46500,
+      "offerPrice": 39999,
+      "discountPercentage": 14,
+      "stock": 6,
+      "imageUrl": "https://picsum.photos/seed/hpprinter/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/hpprinter/1000/1000",
+        "https://picsum.photos/seed/printertray/1000/1000"
+      ],
+      "description": "High-performance enterprise multi-function network monochrome printer. Scan, copy, print, and fax with seamless Wi-Fi, Ethernet, and cloud printing support.",
+      "specifications": {
+        "Print tech": "Laser (Monochrome)",
+        "Print speed": "Up to 40 pages per minute (PPM)",
+        "Functions": "Print, Copy, Scan, Fax",
+        "Duplex": "Automatic Duplex Printing & Scanning",
+        "Connectivity": "Wi-Fi, Ethernet, USB 2.0, Host USB",
+        "Input capacity": "250-sheet input tray, 50-sheet Auto Document Feeder"
+      },
+      "features": [
+        "Lightning fast print speed of 40 PPM to keep your business running",
+        "Dual-Band Wi-Fi Self-Heals connection drops in high traffic environments",
+        "HP Wolf Pro Security blocks malicious network attacks on printer endpoints",
+        "Automatic double-sided scanning saves time and physical labor"
+      ],
+      "warranty": "1 Year Onsite Manufacturer Warranty",
+      "rating": 4.6,
+      "ratingCount": 29,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isDeal": false
+    },
+    {
+      "id": "prod-3",
+      "name": "CP Plus 4MP Full HD Outdoor Dome CCTV Camera",
+      "brand": "CP Plus",
+      "sku": "CP-PLS-4MP-DME",
+      "hsnCode": "85258090",
+      "gstPercentage": 18,
+      "category": "CCTV & Security",
+      "price": 6200,
+      "offerPrice": 2949,
+      "discountPercentage": 52,
+      "stock": 47,
+      "imageUrl": "https://picsum.photos/seed/cctvcam/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/cctvcam/1000/1000",
+        "https://picsum.photos/seed/cctvfeed/1000/1000"
+      ],
+      "description": "Professional 4 MegaPixel Full HD Outdoor IP Dome Camera with night-vision infrared, weatherproofing IP67, Smart Motion Detection, and PoE (Power over Ethernet) support.",
+      "specifications": {
+        "Resolution": "4.0 Megapixel (2560 x 1440 Live Quad-HD)",
+        "Lens": "2.8mm Standard Wide Lens (102° Horizontal FoV)",
+        "Night Vision": "IR Night Vision range up to 30 meters with IR Cut Filter",
+        "Ingress Protection": "IP67 Weatherproof Waterproof Metal Casing",
+        "Power source": "PoE (802.3af) or standard 12V DC Adapter",
+        "Storage": "MicroSD slot support up to 256GB local storage"
+      },
+      "features": [
+        "Crisp 4MP Ultra-HD video captures perfect facial details and vehicle plates",
+        "Completely IP67 certified with heavy-duty weather resistant aluminum chassis",
+        "Intelligent Motion Detection filters false alarms like wind, flies, and shadows",
+        "Power over Ethernet (PoE) enables single ethernet cables for dynamic setups"
+      ],
+      "warranty": "2 Years Carry-In Brand Warranty",
+      "rating": 4.5,
+      "ratingCount": 112,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isDeal": true
+    },
+    {
+      "id": "prod-4",
+      "name": "TP-Link Archer AX73 AX5400 WiFi 6 Dual-Band Router",
+      "brand": "TP-Link",
+      "sku": "TPL-ARCH-AX73",
+      "hsnCode": "85176290",
+      "gstPercentage": 18,
+      "category": "Networking",
+      "price": 14999,
+      "offerPrice": 9999,
+      "discountPercentage": 33,
+      "stock": 25,
+      "imageUrl": "https://picsum.photos/seed/router/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/router/1000/1000",
+        "https://picsum.photos/seed/routerback/1000/1000"
+      ],
+      "description": "Extreme Wi-Fi 6 router designed to power up to 200 concurrent smart office devices. Features 6 external high-gain antennas, broad beamforming coverage, and HomeShield commercial security subscription.",
+      "specifications": {
+        "Wi-Fi Speed": "AX5400 (4804 Mbps on 5 GHz + 574 Mbps on 2.4 GHz)",
+        "Antennas": "6 High-Performance External Antennas with Beamforming",
+        "Processor": "1.5 GHz Triple-Core Broadcom CPU",
+        "USB Support": "1 x USB 3.0 Port supporting FTP/Media Server",
+        "Ethernet Ports": "1 x Gigabit WAN Port, 4 x Gigabit LAN Ports with Link Aggregation",
+        "Security Options": "WPA3 Enterprise Encryption, Parental Controls"
+      },
+      "features": [
+        "Blazing Dual-Band 5.4 Gbps speed supports seamless 8K video streaming",
+        "Dynamic MU-MIMO and OFDMA multiply device handling capacity by 4x",
+        "Warp coverage throughout whole offices with 6 antennas + Beamforming",
+        "Dedicated venting design prevents overheating under high enterprise loads"
+      ],
+      "warranty": "3 Years Carry-In Brand Warranty",
+      "rating": 4.7,
+      "ratingCount": 84,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isDeal": false
+    },
+    {
+      "id": "prod-5",
+      "name": "Dell PowerEdge T150 Tower Enterprise Server",
+      "brand": "Dell",
+      "sku": "DELL-PE-T150",
+      "hsnCode": "84715000",
+      "gstPercentage": 18,
+      "category": "Servers & Storage",
+      "price": 210000,
+      "offerPrice": 189999,
+      "discountPercentage": 10,
+      "stock": 4,
+      "imageUrl": "https://picsum.photos/seed/serverbox/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/serverbox/1000/1000",
+        "https://picsum.photos/seed/serveropen/1000/1000"
+      ],
+      "description": "The ideal entry level tower server for small and medium businesses. Power file sharing, web applications, and physical active directory controllers with Intel Xeon E-series enterprise silicons.",
+      "specifications": {
+        "Processor": "Intel Xeon E-2314 (4 Cores, 2.8 GHz, 8MB Cache)",
+        "Memory": "16GB DDR4 ECC UDIMM (Error Correcting Memory)",
+        "Storage Drives": "2 x 2TB Enterprise SATA 7.2K RPM Hard Drives (RAID 1 Setup)",
+        "RAID Controller": "PERC H355 hardware RAID Controller",
+        "Remote Mgmt": "iDRAC9 Basic remote out-of-band management console",
+        "Power Supply": "Single 300W Cable Dedicated PSU"
+      },
+      "features": [
+        "Error-Correcting Code (ECC) RAM prevents memory corruption crashes",
+        "Hardware RAID 1 automatically mirrors disks for business data redundancy",
+        "Integrated Dell Remote Access Controller (iDRAC9) for server administration",
+        "Quiet commercial footprint fits desks without requiring dedicated server closets"
+      ],
+      "warranty": "3 Years Next-Business-Day ProSupport Onsite Warranty",
+      "rating": 4.4,
+      "ratingCount": 11,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isDeal": false
+    },
+    {
+      "id": "prod-6",
+      "name": "Matrix COSEC PATH VTEP Fingerprint Time Attendance",
+      "brand": "Matrix",
+      "sku": "MAT-COSEC-PATH",
+      "hsnCode": "84719000",
+      "gstPercentage": 18,
+      "category": "Biometrics",
+      "price": 18500,
+      "offerPrice": 14999,
+      "discountPercentage": 19,
+      "stock": 19,
+      "imageUrl": "https://picsum.photos/seed/biometric/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/biometric/1000/1000",
+        "https://picsum.photos/seed/fingerscan/1000/1000"
+      ],
+      "description": "Enterprise-grade biometric access control and staff time-attendance terminal. Highly accurate fingerprint reader, built-in RFID card support, and PoE Wi-Fi network connectivity.",
+      "specifications": {
+        "Sensor Type": "Optical Fingerprint Sensor (Scratchproof 500 DPI)",
+        "Capacity": "9,600 Templates & up to 100,000 Offline Event Logs",
+        "Verification time": "Less than 1 second",
+        "Card Reader": "Integrated Mifare Smart RFID Card Reader (13.56 MHz)",
+        "Network interfaces": "Ethernet (PoE Supported), USB, Wiegand Input/Output",
+        "Enclosure": "IP65 Weatherproof Compact casing"
+      },
+      "features": [
+        "Ultrafast biometric matching logic validates users in under 1.0 second",
+        "Robust internal memory buffers 100K clocking events during network offline",
+        "IP65 rated chassis survives moisture dust and varying outdoor temperatures",
+        "PoE support makes setups extremely clean, removing wall adaptors"
+      ],
+      "warranty": "1 Year Standard Onsite Warranty",
+      "rating": 4.3,
+      "ratingCount": 18,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isDeal": false
+    },
+    {
+      "id": "prod-7",
+      "name": "APC Back-UPS Pro BR1500G-IN battery backup power solution",
+      "brand": "APC",
+      "sku": "APC-BR1500G-IN",
+      "hsnCode": "85044090",
+      "gstPercentage": 18,
+      "category": "UPS & Power Solutions",
+      "price": 19400,
+      "offerPrice": 16999,
+      "discountPercentage": 12,
+      "stock": 14,
+      "imageUrl": "https://picsum.photos/seed/upsapc/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/upsapc/1000/1000",
+        "https://picsum.photos/seed/upsscreen/1000/1000"
+      ],
+      "description": "High performance 1500VA/865W Line-Interactive UPS with Automatic Voltage Regulation (AVR), LCD status screen, and dedicated power management desktop software.",
+      "specifications": {
+        "Capacity Power": "1500VA / 865 Watts Max output",
+        "Topology": "Line-Interactive with automatic buck/boost voltage regulator",
+        "Sockets": "6 Battery Backup + Surge Sockets, 2 Surge-Only Sockets",
+        "Backup Run Time": "Up to 45 mins for standard computer setup, 12 mins half-load",
+        "Display interface": "Multifunction LCD status showing load, state, and runtime",
+        "Dataline shield": "Gbps Ethernet surge protector in/out coax shield"
+      },
+      "features": [
+        "Automatic Voltage Regulation adjusts voltage drops without wearing batteries",
+        "Detailed LCD panel reports status, runtime, overloading and batteries in seconds",
+        "Seamless USB interface links to PC for graceful automatic shutdown",
+        "Battery Safeguard delivers up to 1500VA of clean sine-wave approximations"
+      ],
+      "warranty": "2 Years Carry-In Onsite Warranty (Including Battery)",
+      "rating": 4.6,
+      "ratingCount": 65,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isDeal": true
+    },
+    {
+      "id": "prod-8",
+      "name": "Logitech MX Master 3S Ergonomic Wireless Mouse",
+      "brand": "Logitech",
+      "sku": "LOGI-MX3S",
+      "hsnCode": "84716060",
+      "gstPercentage": 18,
+      "category": "Accessories",
+      "price": 11995,
+      "offerPrice": 9995,
+      "discountPercentage": 17,
+      "stock": 40,
+      "imageUrl": "https://picsum.photos/seed/mx3s/1000/1000",
+      "galleryUrls": [
+        "https://picsum.photos/seed/mx3s/1000/1000",
+        "https://picsum.photos/seed/mx3shover/1000/1000"
+      ],
+      "description": "The ultimate performance mouse. Features 8000 DPI track-anywhere optical glass sensors, electromagnetic MagSpeed scrolling wheel, and multi-computer Flow control.",
+      "specifications": {
+        "Sensor": "Darkfield Optical High Precision (200 to 8000 DPI adjustable)",
+        "Buttons": "7 Programmable custom keys with app-specific profiles",
+        "Scroll Wheel": "MagSpeed Smart Electromagnetic Scrolling wheel",
+        "Battery": "USB-C Rechargeable (up to 70 days run on single full charge)",
+        "Connectivity": "Bluetooth Low Energy & Logi Bolt USB Receiver",
+        "Weight": "141 grams ergonomic desk design"
+      },
+      "features": [
+        "Silent Click switches offer tactility while dropping noise by 90%",
+        "MagSpeed scroll wheel sails through 1000 lines/sec or snaps to micro precision",
+        "Seamless multi-screen Flow lets you copy-paste files across macOS and Windows",
+        "Tracks perfectly on any surface, including glass dining tables and office desks"
+      ],
+      "warranty": "1 Year Carry-In Brand Warranty",
+      "rating": 4.8,
+      "ratingCount": 190,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isDeal": false
+    },
+    {
+      "id": "prod-1781667867788",
+      "name": "microtek UPS 1000AH",
+      "brand": "mictrotek",
+      "sku": "UPS-MIC-2789",
+      "hsnCode": "456987",
+      "gstPercentage": 18,
+      "category": "UPS & Power Solutions",
+      "price": 6000,
+      "offerPrice": 5500,
+      "discountPercentage": 8,
+      "stock": 6,
+      "imageUrl": "/uploads/img-Untitled_design__8_-1781705339333.png",
+      "galleryUrls": [
+        "/uploads/img-Untitled_design__4_-1781667831529.png"
+      ],
+      "description": "microtek UPS 1000AH",
+      "specifications": {},
+      "features": [
+        "hI POWER "
+      ],
+      "warranty": "1 Year Brand Warranty",
+      "rating": 5,
+      "ratingCount": 1,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isDeal": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Laptops",
+      "slug": "laptops",
+      "imageUrl": "https://picsum.photos/seed/cat-laptop/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "Printers",
+      "slug": "printers",
+      "imageUrl": "https://picsum.photos/seed/cat-printer/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-3",
+      "name": "CCTV & Security",
+      "slug": "cctv-security",
+      "imageUrl": "https://picsum.photos/seed/cat-security/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-4",
+      "name": "Networking",
+      "slug": "networking",
+      "imageUrl": "https://picsum.photos/seed/cat-network/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-5",
+      "name": "Servers & Storage",
+      "slug": "servers-storage",
+      "imageUrl": "https://picsum.photos/seed/cat-server/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-6",
+      "name": "Biometrics",
+      "slug": "biometrics",
+      "imageUrl": "https://picsum.photos/seed/cat-bio/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-7",
+      "name": "UPS & Power Solutions",
+      "slug": "ups-power",
+      "imageUrl": "https://picsum.photos/seed/cat-ups/400/400",
+      "itemCount": 1
+    },
+    {
+      "id": "cat-8",
+      "name": "Accessories",
+      "slug": "accessories",
+      "imageUrl": "https://picsum.photos/seed/cat-acc/400/400",
+      "itemCount": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "INV/2026/0001",
+      "orderNumber": "CROM-ORD-104928",
+      "date": "2026-06-15T14:30:00Z",
+      "shippingAddress": {
+        "fullName": "Aravind Sharma",
+        "companyName": "Sharma Tech Solutions",
+        "gstNumber": "27AAAAA0000A1Z2",
+        "addressLine": "Flat 304, Tech Park Residency, Whitefield",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560066",
+        "phone": "+91 98765 43210",
+        "email": "aravind@sharmatech.in"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Lenovo ThinkPad X1 Carbon Gen 11 Ultrabook",
+          "sku": "TP-X1-C11",
+          "hsnCode": "84713010",
+          "unitPriceExclTax": 139829.66,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 12584.67,
+          "sgstAmount": 12584.67,
+          "igstAmount": 0,
+          "totalAmount": 164999
+        }
+      ],
+      "couponApplied": null,
+      "subtotalExclTax": 139829.66,
+      "totalCgst": 12584.67,
+      "totalSgst": 12584.67,
+      "totalIgst": 0,
+      "totalTax": 25169.34,
+      "grandTotal": 164999,
+      "paymentMethod": "Razorpay UPI",
+      "paymentReference": "pay_S6B2n9Kls10Amd",
+      "paymentStatus": "Paid",
+      "status": "Delivered"
+    },
+    {
+      "id": "INV/2026/0002",
+      "orderNumber": "CROM-ORD-183002",
+      "date": "2026-06-17T12:37:02.528Z",
+      "shippingAddress": {
+        "fullName": "test",
+        "companyName": "financial forecasters",
+        "gstNumber": "",
+        "addressLine": "Vasanth appartment,g2, No. 1 ,Krishna street, T nagar, Chennai-600017",
+        "city": "chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600087",
+        "phone": "9962323959",
+        "email": "test@test.com"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Lenovo ThinkPad X1 Carbon Gen 11 Ultrabook",
+          "sku": "TP-X1-C11",
+          "hsnCode": "84713010",
+          "unitPriceExclTax": 139829.66,
+          "gstPercentage": 18,
+          "quantity": 2,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 50338.68,
+          "totalAmount": 329998
+        }
+      ],
+      "subtotalExclTax": 279659.32,
+      "totalCgst": 0,
+      "totalSgst": 0,
+      "totalIgst": 50338.68,
+      "totalTax": 50338.68,
+      "grandTotal": 329998,
+      "paymentMethod": "COD",
+      "paymentReference": "COD_PENDING_ON_DELIVERY",
+      "paymentStatus": "Paid",
+      "status": "Delivered"
+    },
+    {
+      "id": "INV/2026/0003",
+      "orderNumber": "CROM-ORD-206464",
+      "date": "2026-06-17T13:10:25.392Z",
+      "shippingAddress": {
+        "fullName": "vetri",
+        "companyName": "vetri",
+        "gstNumber": "",
+        "addressLine": "no1, abc street, abc nagar, chennai ",
+        "city": "chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600017",
+        "phone": "9962323959",
+        "email": "test@abc.com"
+      },
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "CP Plus 4MP Full HD Outdoor Dome CCTV Camera",
+          "sku": "CP-PLS-4MP-DME",
+          "hsnCode": "85258090",
+          "unitPriceExclTax": 2249.15,
+          "gstPercentage": 18,
+          "quantity": 3,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 1214.54,
+          "totalAmount": 7962
+        },
+        {
+          "productId": "prod-6",
+          "name": "Matrix COSEC PATH VTEP Fingerprint Time Attendance",
+          "sku": "MAT-COSEC-PATH",
+          "hsnCode": "84719000",
+          "unitPriceExclTax": 11439.83,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 2059.17,
+          "totalAmount": 13499
+        }
+      ],
+      "couponApplied": {
+        "code": "FESTIVE10",
+        "discountAmount": 2385
+      },
+      "subtotalExclTax": 18187.29,
+      "totalCgst": 0,
+      "totalSgst": 0,
+      "totalIgst": 3273.71,
+      "totalTax": 3273.71,
+      "grandTotal": 21461,
+      "paymentMethod": "COD",
+      "paymentReference": "COD_PENDING_ON_DELIVERY",
+      "paymentStatus": "COD",
+      "status": "Delivered"
+    },
+    {
+      "id": "INV/2026/0004",
+      "orderNumber": "CROM-ORD-386695",
+      "date": "2026-06-17T14:46:40.943Z",
+      "shippingAddress": {
+        "fullName": "vetri",
+        "companyName": "vetri",
+        "gstNumber": "",
+        "addressLine": "no1, abc street, abc nagar, chennai ",
+        "city": "chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600077",
+        "phone": "9962323959",
+        "email": "test@abc.com"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Lenovo ThinkPad X1 Carbon Gen 11 Ultrabook",
+          "sku": "TP-X1-C11",
+          "hsnCode": "84713010",
+          "unitPriceExclTax": 139829.66,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 25169.34,
+          "totalAmount": 164999
+        },
+        {
+          "productId": "prod-2",
+          "name": "HP LaserJet Pro MFP M428fdw Wireless Mono Printer",
+          "sku": "HP-LJPro-M428",
+          "hsnCode": "84433210",
+          "unitPriceExclTax": 33897.46,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 6101.54,
+          "totalAmount": 39999
+        }
+      ],
+      "subtotalExclTax": 173727.12,
+      "totalCgst": 0,
+      "totalSgst": 0,
+      "totalIgst": 31270.88,
+      "totalTax": 31270.88,
+      "grandTotal": 204998,
+      "paymentMethod": "Razorpay UPI",
+      "paymentReference": "pay_Rzp_4d9hkvqtrc",
+      "paymentStatus": "Paid",
+      "status": "Confirmed"
+    },
+    {
+      "id": "INV/2026/0005",
+      "orderNumber": "CROM-ORD-237139",
+      "date": "2026-06-17T14:46:42.769Z",
+      "shippingAddress": {
+        "fullName": "vetri",
+        "companyName": "vetri",
+        "gstNumber": "",
+        "addressLine": "no1, abc street, abc nagar, chennai ",
+        "city": "chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600077",
+        "phone": "9962323959",
+        "email": "test@abc.com"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Lenovo ThinkPad X1 Carbon Gen 11 Ultrabook",
+          "sku": "TP-X1-C11",
+          "hsnCode": "84713010",
+          "unitPriceExclTax": 139829.66,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 25169.34,
+          "totalAmount": 164999
+        },
+        {
+          "productId": "prod-2",
+          "name": "HP LaserJet Pro MFP M428fdw Wireless Mono Printer",
+          "sku": "HP-LJPro-M428",
+          "hsnCode": "84433210",
+          "unitPriceExclTax": 33897.46,
+          "gstPercentage": 18,
+          "quantity": 1,
+          "cgstAmount": 0,
+          "sgstAmount": 0,
+          "igstAmount": 6101.54,
+          "totalAmount": 39999
+        }
+      ],
+      "subtotalExclTax": 173727.12,
+      "totalCgst": 0,
+      "totalSgst": 0,
+      "totalIgst": 31270.88,
+      "totalTax": 31270.88,
+      "grandTotal": 204998,
+      "paymentMethod": "Razorpay UPI",
+      "paymentReference": "pay_Rzp_c6uvf2p00a",
+      "paymentStatus": "Paid",
+      "status": "Confirmed"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-1",
+      "code": "FESTIVE10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minPurchase": 10000,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "coup-2",
+      "code": "FLAT5000",
+      "discountType": "flat",
+      "discountValue": 5000,
+      "minPurchase": 50000,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-1",
+      "productId": "prod-5",
+      "productName": "Dell PowerEdge T150 Tower Enterprise Server",
+      "name": "Karan Malhotra",
+      "email": "karan.m@gmail.com",
+      "phone": "+91 99999 88888",
+      "message": "We need custom RAID configurations with four 4TB Enterprise drives. Can you quote us for that?",
+      "date": "2026-06-16T10:15:00Z",
+      "status": "Pending"
+    }
+  ],
+  "settings": {
+    "companyName": "RS TECH",
+    "shortName": "RS TECH",
+    "address": "No. 12, GST Road, Guindy, Chennai, Tamil Nadu, 600032",
+    "gstin": "33AAAAA1111A1Z1",
+    "phone": "+91 80 4920 1000",
+    "email": "orders@cromatech.co.in",
+    "whatsapp": "918049201000",
+    "adminPassword": "minda123"
+  },
+  "users": [
+    {
+      "id": "usr-1781701679168",
+      "name": "vetri",
+      "email": "test@abc.com",
+      "password": "vetri12345",
+      "phone": "9962323959",
+      "address": "no1, abc street, abc nagar, chennai ",
+      "city": "chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600077",
+      "gstin": "",
+      "createdAt": "2026-06-17T13:07:59.168Z"
+    },
+    {
+      "id": "usr-1781703384465",
+      "name": "test",
+      "email": "tes2@abc.com",
+      "password": "test12345",
+      "phone": "8965741232",
+      "address": "no2, test nagar , chennai",
+      "city": "chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600106",
+      "gstin": "",
+      "createdAt": "2026-06-17T13:36:24.465Z"
+    }
+  ]
+}

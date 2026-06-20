@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  /* Map amber variables to IPL Chennai Super Kings (CSK) signature bright canary/golden yellow */
+  --color-amber-50: #fffbeb;
+  --color-amber-100: #fef3c7;
+  --color-amber-200: #fde68a;
+  --color-amber-300: #fcd34d;
+  --color-amber-400: #fbbf24;
+  --color-amber-500: #f7d117; /* Signature CSK yellow */
+  --color-amber-600: #e0ab09;
+  --color-amber-700: #b58005;
+  --color-amber-800: #8f5f02;
+  --color-amber-900: #6b4301;
+  --color-amber-950: #3c2100;
+
+  /* Map slate shades of the site header, bars and dark containers to matching CSK Royal Blue/Navy */
+  --color-slate-950: #020b1e; /* Deepest midnight royal blue */
+  --color-slate-900: #06163a; /* Deep navy */
+  --color-slate-850: #0a1f4f;
+  --color-slate-800: #102a66;
+  --color-slate-700: #16367c;
+
+  /* Support missing custom colors from legacy template definitions */
+  --color-slate-205: var(--color-slate-200);
+  --color-slate-305: var(--color-slate-300);
+  --color-slate-450: var(--color-slate-400);
+  --color-slate-550: var(--color-slate-500);
+  --color-slate-555: var(--color-slate-500);
+  --color-slate-850: #0a1f4f;
+}
+
+/* 
+  Ensures high-visibility and correct color alignment inside SOLID Yellow elements:
+  text elements (including those styled with text-slate-950) should render in 
+  high-contrast CSK Royal Navy blue (#020b1e) on top of the bright yellow background.
+  We exclude transparent/partial opacities (containing a slash / like bg-amber-500/5)
+  so their text color remains highly legible.
+*/
+.bg-amber-500:not([class*="/"]), 
+.bg-amber-400:not([class*="/"]), 
+.bg-amber-600:not([class*="/"]),
+[class*="bg-amber-500"]:not([class*="/"]),
+[class*="bg-amber-400"]:not([class*="/"]) {
+  --color-slate-950: #020b1e !important;
+  color: #020b1e !important;
+}
+
+/* Ensure icons inside solid yellow elements also use high-contrast navy color */
+.bg-amber-500:not([class*="/"]) svg, 
+.bg-amber-400:not([class*="/"]) svg, 
+.bg-amber-600:not([class*="/"]) svg,
+[class*="bg-amber-500"]:not([class*="/"]) svg,
+[class*="bg-amber-400"]:not([class*="/"]) svg {
+  stroke: #020b1e !important;
+  color: #020b1e !important;
+}
+
+/* Make sure dropdown options are highly visible with solid dark background and white text */
+select option {
+  background-color: #06163a !important;
+  color: #ffffff !important;
+}
+
+
+

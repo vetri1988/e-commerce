@@ -1,0 +1,6 @@
+{
+  "name": "CromaTech Electronics",
+  "description": "Enterprise-grade Indian Electronics E-Commerce Platform with compliant GST Billing, Razorpay payments, and Admin Management Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
