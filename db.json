@@ -724,3 +724,18 @@
     }
   ]
 }
+{
+  "settings": {
+    "companyName": "RS Tech",
+    ...
+    "smtpSettings": {
+      "host": "smtp.gmail.com",
+      "port": "587",
+      "secure": false,
+      "user": "your-configured-email@gmail.com",
+      "pass": "your-app-specific-passcode",
+      "from": "\"RS Tech\" <your-configured-email@gmail.com>",
+      "enabled": true
+    }
+  }
+}
